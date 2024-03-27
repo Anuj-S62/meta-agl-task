@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=agltask
+Comment=agltask
+GenericName=agltask
+Exec=agltask
+Terminal=flase
+Type=Application
+Categories=System;
+StartupNotify=true
